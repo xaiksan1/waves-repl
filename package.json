@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@waves/waves-transactions": "^4.1.8",
-    "axios": "^1.6.3",
+    "axios": "^1.6.8",
     "babylon": "^6.18.0",
     "babylon-walk": "^1.0.2",
     "classnames": "^2.2.6",
